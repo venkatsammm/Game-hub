@@ -1,52 +1,84 @@
-**🎮 Game Hub – React Native**
+# 🎮 Game Hub – React Native
 
-🚀 Game Hub is a React Native app featuring multiple fun mini-games:
-✅ 🔢 Number Guessing Game – Guess the randomly generated number.
-✅ 👆 Counter Tap Game – Tap as fast as you can within a time limit.
-✅ ✊✋✌ Rock-Paper-Scissors – Play against AI in the classic game.
-✅ ➕➖✖️➗ Maths Quiz Game – Solve quick math problems.
+Welcome to **Game Hub**, a React Native-powered mobile app featuring four engaging mini-games. Challenge yourself, have fun, and improve your reflexes with these exciting games!
 
-🚀 Installation Guide
-📥 1. Clone the Repository
-sh
-Copy
-Edit
+---
+
+## 📌 Features
+
+✅ **🔢 Number Guessing Game** – Guess the randomly generated number.  
+✅ **👆 Counter Tap Game** – Tap as fast as you can within a time limit.  
+✅ **✊✋✌ Rock-Paper-Scissors** – Play against AI in the classic game.  
+✅ **➕➖✖️➗ Maths Quiz Game** – Solve quick math problems.  
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Installation
+Ensure you have **Node.js** and **Expo CLI** installed.
+
+```sh
+# Install Expo CLI globally
+npm install -g expo-cli
+```
+
+### 2️⃣ Clone the Repository
+```sh
 git clone https://github.com/your-username/GameHub.git
 cd GameHub
-📦 2. Install Dependencies
-sh
-Copy
-Edit
+```
+
+### 3️⃣ Install Dependencies
+```sh
 npm install
-▶️ 3. Run the App
-sh
-Copy
-Edit
+```
+
+### 4️⃣ Run the App
+```sh
 npx expo start
-🔹 Use a to run on Android Emulator
-🔹 Use w to open in a web browser
+```
 
-📌 Key Features
-✨ 4 Fun & Engaging Mini-Games 🎮
-✨ User-Friendly UI & Smooth Gameplay 📱
-✨ Optimized for Mobile & Tablets 💡
-✨ Built with React Native & Expo 🚀
+💡 **Controls:**  
+- Press `a` to run on Android Emulator  
+- Press `w` to open in a web browser  
 
-📂 Project Structure
-bash
-Copy
-Edit
+---
+
+## 📂 Project Structure
+```
 /GameHub
- ├── /components    # Reusable game components  
- ├── /screens       # Different game screens  
- ├── App.js         # Main entry file  
- ├── package.json   # Project dependencies  
- ├── README.md      # Project documentation  
-🛠️ Tech Stack
-⚛️ React Native – Core framework
-🚀 Expo – Rapid development
-✨ JavaScript (JS) – Language
+ ├── /components    # Reusable UI components for games
+ ├── /screens       # Individual game screens
+ ├── /assets        # Images, icons, and sounds
+ ├── App.js         # Main application entry file
+ ├── package.json   # Project dependencies
+ ├── README.md      # Documentation
+```
 
-🤝 Contributing
-💡 Contributions are Welcome! 🎉
-📌 Fork the Repo → Create a Branch → Submit a PR
+---
+
+## 🛠️ Built With
+- ⚛️ **React Native** – Core framework
+- 🚀 **Expo** – Fast development & testing
+- 💡 **JavaScript** – Programming language
+- 🎨 **Styled with React Native Components**
+
+---
+
+## 🤝 Contributing
+1. **Fork the repository**
+2. **Create a feature branch** (`git checkout -b feature-name`)
+3. **Commit changes** (`git commit -m 'Add new feature'`)
+4. **Push to GitHub** (`git push origin feature-name`)
+5. **Create a Pull Request**
+
+---
+
+## 📩 Contact & Support
+- 📧 Email: your-email@example.com  
+- 🖥 GitHub: [your-username](https://github.com/your-username)
+- 🌎 Website: [your-portfolio.com](https://your-portfolio.com)
+
+💡 _Enjoy playing and improving your skills with Game Hub! 🎉_
+
