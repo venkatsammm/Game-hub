@@ -1,29 +1,35 @@
 🎮 Game Hub – React Native
-Game Hub is a React Native app featuring multiple mini-games, including:
+🚀 Game Hub is a React Native app featuring multiple fun mini-games:
+✅ 🔢 Number Guessing Game – Guess the randomly generated number.
+✅ 👆 Counter Tap Game – Tap as fast as you can within a time limit.
+✅ ✊✋✌ Rock-Paper-Scissors – Play against AI in the classic game.
+✅ ➕➖✖️➗ Maths Quiz Game – Solve quick math problems.
 
-🔢 Number Guessing Game – Guess the randomly generated number.
-👆 Counter Tap Game – Tap as fast as you can within a time limit.
-🚀 Installation
-Clone the repository
+🚀 Installation Guide
+📥 1. Clone the Repository
 sh
 Copy
 Edit
 git clone https://github.com/your-username/GameHub.git
 cd GameHub
-Install dependencies
+📦 2. Install Dependencies
 sh
 Copy
 Edit
 npm install
-Run the app
+▶️ 3. Run the App
 sh
 Copy
 Edit
 npx expo start
-📌 Features
-✅ Simple & fun mini-games
-✅ Optimized for mobile devices
-✅ Built with React Native and Expo
+🔹 Use a to run on Android Emulator
+🔹 Use w to open in a web browser
+
+📌 Key Features
+✨ 4 Fun & Engaging Mini-Games 🎮
+✨ User-Friendly UI & Smooth Gameplay 📱
+✨ Optimized for Mobile & Tablets 💡
+✨ Built with React Native & Expo 🚀
 
 📂 Project Structure
 bash
@@ -35,10 +41,11 @@ Edit
  ├── App.js         # Main entry file  
  ├── package.json   # Project dependencies  
  ├── README.md      # Project documentation  
-🛠️ Technologies Used
-React Native
-Expo
-JavaScript (JS)
-✨ Contributions
-Contributions are welcome! Feel free to open a PR.
+🛠️ Tech Stack
+⚛️ React Native – Core framework
+🚀 Expo – Rapid development
+✨ JavaScript (JS) – Language
 
+🤝 Contributing
+💡 Contributions are Welcome! 🎉
+📌 Fork the Repo → Create a Branch → Submit a PR
