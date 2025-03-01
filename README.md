@@ -75,10 +75,4 @@ npx expo start
 
 ---
 
-## 📩 Contact & Support
-- 📧 Email: your-email@example.com  
-- 🖥 GitHub: [your-username](https://github.com/your-username)
-- 🌎 Website: [your-portfolio.com](https://your-portfolio.com)
-
-💡 _Enjoy playing and improving your skills with Game Hub! 🎉_
 
