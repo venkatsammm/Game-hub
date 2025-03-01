@@ -1,4 +1,5 @@
-🎮 Game Hub – React Native
+**🎮 Game Hub – React Native**
+
 🚀 Game Hub is a React Native app featuring multiple fun mini-games:
 ✅ 🔢 Number Guessing Game – Guess the randomly generated number.
 ✅ 👆 Counter Tap Game – Tap as fast as you can within a time limit.
